@@ -14,6 +14,10 @@ https://github.com/fmidev
 
 
 
+Analysointityökaluja
+Whitebox-tools
+https://github.com/jblindsay/whitebox-tools
+
 
 Alustat:
 
