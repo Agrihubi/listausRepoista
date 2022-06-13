@@ -31,3 +31,8 @@ https://github.com/geonetwork/core-geonetwork
 farmOS - Web-based farm management and recordkeeping
 https://github.com/farmOS
 
+
+Muut repo-kokoelmat:
+
+https://github.com/brycejohnston/awesome-agriculture
+
