@@ -41,3 +41,6 @@ Muut repo-kokoelmat:
 
 https://github.com/brycejohnston/awesome-agriculture
 
+https://github.com/chrieke/awesome-geospatial-companies
+
+
