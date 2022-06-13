@@ -29,6 +29,9 @@ Alustat:
 * farmOS - Web-based farm management and recordkeeping, https://github.com/farmOS
 
 
+Satelliitti:
+* Sentinel, https://github.com/sentinel-hub
+
 Ajo-opastin:
 
 * AgOpenGPS, https://github.com/farmerbriantee/AgOpenGPS
