@@ -1,5 +1,5 @@
 # listaus repoista
-Alle on listattu maatalouteen liittyviä repoja. Jäsentelyä tehdään aina tarpeen mukaan, kun uusia löytyy. Myöhemmin voidaan harkita näiden liittämistä esim. submoduuleiksi, jolloin niiden kehitysseuranta on helpompaa. 
+Alle on listattu maatalouteen liittyviä repoja. Jäsentelyä tehdään aina tarpeen mukaan, kun uusia löytyy. 
 
 Ehdota repoja petri.linna@tuni.fi
 
