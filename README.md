@@ -4,7 +4,7 @@ Alle on listattu maatalouteen liittyviä repoja. Jäsentelyä tehdään aina tar
 Ehdota repoja petri.linna@tuni.fi
 
 **********************************
-* Listaus repoista:
+Listaus repoista:
 **********************************
 
 Säätieto
