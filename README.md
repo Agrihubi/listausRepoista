@@ -25,8 +25,4 @@ Geonetworks, Metatiedon hallinta
 https://github.com/geonetwork/core-geonetwork
 
 
-**********************************
-Rajapintoja:
-**********************************
-
 
