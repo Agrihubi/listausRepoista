@@ -12,7 +12,8 @@ Säätieto:
 FMI - ilmatieteen laitos
 https://github.com/fmidev
 
-
+FMI datojen valmiita parsinta koodeja
+https://github.com/pnuu/fmiopendata
 
 Analysointityökaluja
 Whitebox-tools
@@ -24,9 +25,9 @@ Alustat:
 Peltodata - koodit
 https://bitbucket.org/peltodata/
 
-
 Geonetworks, Metatiedon hallinta
 https://github.com/geonetwork/core-geonetwork
 
-
+farmOS - Web-based farm management and recordkeeping
+https://github.com/farmOS
 
