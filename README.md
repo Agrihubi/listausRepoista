@@ -7,7 +7,7 @@ Ehdota repoja petri.linna@tuni.fi
 Listaus repoista:
 **********************************
 
-Säätieto
+Säätieto:
 
 FMI - ilmatieteen laitos
 https://github.com/fmidev
@@ -23,4 +23,10 @@ https://bitbucket.org/peltodata/
 
 Geonetworks, Metatiedon hallinta
 https://github.com/geonetwork/core-geonetwork
+
+
+**********************************
+Rajapintoja:
+**********************************
+
 
