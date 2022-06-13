@@ -27,6 +27,7 @@ Alustat:
 * Peltodata, https://bitbucket.org/peltodata/
 * Geonetworks, Metatiedon hallinta, https://github.com/geonetwork/core-geonetwork
 * farmOS - Web-based farm management and recordkeeping, https://github.com/farmOS
+* QField, https://github.com/opengisch/QField
 
 
 Satelliitti:
