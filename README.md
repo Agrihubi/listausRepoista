@@ -15,6 +15,7 @@ Säätieto:
 Analysointityökaluja:
 
 * Whitebox-tools, https://github.com/jblindsay/whitebox-tools
+* QGIS, https://github.com/qgis/QGIS
 
 Lidar:
 
