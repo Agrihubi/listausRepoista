@@ -1,7 +1,7 @@
 # listaus repoista
 Alle on listattu maatalouteen liittyviä repoja. Jäsentelyä tehdään aina tarpeen mukaan, kun uusia löytyy. 
 
-Ehdota repoja petri.linna@tuni.fi
+Ehdota repoja käyttäen pull reguestia tai lähetä viesti petri.linna at tuni.fi
 
 **********************************
 Listaus repoista:
@@ -31,6 +31,11 @@ https://github.com/geonetwork/core-geonetwork
 farmOS - Web-based farm management and recordkeeping
 https://github.com/farmOS
 
+
+Ajo-opastin:
+
+AgOpenGPS
+https://github.com/farmerbriantee/AgOpenGPS
 
 Muut repo-kokoelmat:
 
