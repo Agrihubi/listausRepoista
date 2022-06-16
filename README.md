@@ -1,7 +1,7 @@
 # listaus repoista
 Alle on listattu maatalouteen liittyviä repoja. Jäsentelyä tehdään aina tarpeen mukaan, kun uusia löytyy. Listausta tehdään osana IFDEA-hankkeen tavoitteita.
 
-Ehdota repoja käyttäen pull reguestia tai lähetä viesti petri.linna at tuni.fi
+Ehdota repoja käyttäen Issue-toimintoa tai lähetä viesti petri.linna at tuni.fi
 
 **********************************
 Listaus repoista:
