@@ -12,6 +12,10 @@ Säätieto:
 * FMI - ilmatieteen laitos, https://github.com/fmidev
 * FMI datojen valmiita parsinta koodeja, https://github.com/pnuu/fmiopendata
 
+
+Maaperä ja vesimallit:
+* AquaCrop,  https://github.com/aquacropos/aquacrop
+
 Analysointityökaluja:
 
 * Whitebox-tools, https://github.com/jblindsay/whitebox-tools
